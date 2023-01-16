@@ -1,0 +1,137 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "Understanding Long Covid",
+            "description": "We know more now than before, and it’s still alarming",
+            "tag": "Long Covid",
+            "length": 9,
+            "date": "Dec 19, 2022",
+            "author": "Dr. Tom Frieden",
+            "authorImg": "https://miro.medium.com/fit/c/40/40/1*XL5QclUh4RwVmsq8szytzg.png",
+            "articleImg": "https://miro.medium.com/fit/c/400/268/1*IPZF1hcDWwpPqOz2vL7NxQ.png",
+            "featured": false
+        },
+        {
+            "id": 2,
+            "title": "Braiding Past into Future",
+            "description": "Nican Huehcatlahtolli, a New Futurism",
+            "tag": "Futurism",
+            "length": 11,
+            "date": "Nov 25, 2022",
+            "author": "David Bowles",
+            "authorImg": "https://miro.medium.com/fit/c/40/40/1*djxTTNvSKu3weP_DmF10Qw.png",
+            "articleImg": "https://miro.medium.com/fit/c/400/268/1*QwO6GCIJEUFahytmP9wWoA.jpeg",
+            "featured": true
+        },
+        {
+            "id": 3,
+            "title": "Learning to Cope with Estrangement: When Children “Cancel” Their Parents",
+            "description": "An estranged father reflects on the stigma and surprising prevalence of these family rifts.",
+            "tag": "Parental Alienation",
+            "length": 6,
+            "date": "Aug 21, 2022",
+            "author": "Ed Ergenzinger Bowles",
+            "authorImg": "https://miro.medium.com/fit/c/40/40/1*_KoGg_Fj6y5iUMR5LPJfsQ@2x.jpeg",
+            "articleImg": "https://miro.medium.com/fit/c/400/268/1*_5gt4Bn19v_YiqM9UXMTjg.jpeg",
+            "featured": true,
+            "category": "Invisible Illness"
+        },
+        {
+            "id": 4,
+            "title": "ChatGPT Is Having a Thomas Edison Moment",
+            "description": "Why breakthrough technologies need to be accessible",
+            "tag": "Gpt 3",
+            "length": 4,
+            "date": "Dec 8, 2022",
+            "author": "Thomas Smith",
+            "authorImg": "https://miro.medium.com/fit/c/40/40/1*pfjoZOu08t9b-HHXv68ETg.png",
+            "articleImg": "https://miro.medium.com/fit/c/400/268/0*6Mv20osH1d24fN_a",
+            "featured": true
+        },
+        {
+            "id": 5,
+            "title": "Braiding Past into Future",
+            "description": "Nican Huehcatlahtolli, a New Futurism",
+            "tag": "Futurism",
+            "length": 11,
+            "date": "Nov 25, 2022",
+            "author": "David Bowles",
+            "authorImg": "https://miro.medium.com/fit/c/40/40/1*djxTTNvSKu3weP_DmF10Qw.png",
+            "articleImg": "https://miro.medium.com/fit/c/400/268/1*QwO6GCIJEUFahytmP9wWoA.jpeg",
+            "featured": true
+        },
+        {
+            "id": 6,
+            "title": "Braiding Past into Future",
+            "description": "Nican Huehcatlahtolli, a New Futurism",
+            "tag": "Futurism",
+            "length": 11,
+            "date": "Nov 25, 2022",
+            "author": "David Bowles",
+            "authorImg": "https://miro.medium.com/fit/c/40/40/1*djxTTNvSKu3weP_DmF10Qw.png",
+            "articleImg": "https://miro.medium.com/fit/c/400/268/1*QwO6GCIJEUFahytmP9wWoA.jpeg",
+            "featured": true
+        },
+        {
+            "id": 7,
+            "title": "Braiding Past into Future",
+            "description": "Nican Huehcatlahtolli, a New Futurism",
+            "tag": "Futurism",
+            "length": 11,
+            "date": "Nov 25, 2022",
+            "author": "David Bowles",
+            "authorImg": "https://miro.medium.com/fit/c/40/40/1*djxTTNvSKu3weP_DmF10Qw.png",
+            "articleImg": "https://miro.medium.com/fit/c/400/268/1*QwO6GCIJEUFahytmP9wWoA.jpeg",
+            "featured": true
+        },
+        {
+            "id": 8,
+            "title": "Braiding Past into Future",
+            "description": "Nican Huehcatlahtolli, a New Futurism",
+            "tag": "Futurism",
+            "length": 11,
+            "date": "Nov 25, 2022",
+            "author": "David Bowles",
+            "authorImg": "https://miro.medium.com/fit/c/40/40/1*djxTTNvSKu3weP_DmF10Qw.png",
+            "articleImg": "https://miro.medium.com/fit/c/400/268/1*QwO6GCIJEUFahytmP9wWoA.jpeg",
+            "featured": true
+        },
+        {
+            "id": 9,
+            "title": "Braiding Past into Future",
+            "description": "Nican Huehcatlahtolli, a New Futurism",
+            "tag": "Futurism",
+            "length": 11,
+            "date": "Nov 25, 2022",
+            "author": "David Bowles",
+            "authorImg": "https://miro.medium.com/fit/c/40/40/1*djxTTNvSKu3weP_DmF10Qw.png",
+            "articleImg": "https://miro.medium.com/fit/c/400/268/1*QwO6GCIJEUFahytmP9wWoA.jpeg",
+            "featured": true
+        },
+        {
+            "id": 10,
+            "title": "Braiding Past into Future",
+            "description": "Nican Huehcatlahtolli, a New Futurism",
+            "tag": "Futurism",
+            "length": 11,
+            "date": "Nov 25, 2022",
+            "author": "David Bowles",
+            "authorImg": "https://miro.medium.com/fit/c/40/40/1*djxTTNvSKu3weP_DmF10Qw.png",
+            "articleImg": "https://miro.medium.com/fit/c/400/268/1*QwO6GCIJEUFahytmP9wWoA.jpeg",
+            "featured": true
+        },
+        {
+            "id": 11,
+            "title": "Braiding Past into Future",
+            "description": "Nican Huehcatlahtolli, a New Futurism",
+            "tag": "Futurism",
+            "length": 11,
+            "date": "Nov 25, 2022",
+            "author": "David Bowles",
+            "authorImg": "https://miro.medium.com/fit/c/40/40/1*djxTTNvSKu3weP_DmF10Qw.png",
+            "articleImg": "https://miro.medium.com/fit/c/400/268/1*QwO6GCIJEUFahytmP9wWoA.jpeg",
+            "featured": true
+        }
+    ]
+}
